@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61288148586",
+    "firebase_url": "https://flutter-34e5f.firebaseio.com",
+    "project_id": "flutter-34e5f",
+    "storage_bucket": "flutter-34e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61288148586:android:c476690a1f6e89cfd5a413",
+        "android_client_info": {
+          "package_name": "trailthree.trail_three"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61288148586-g1kurp9ds32gjj4b3d5r3li6vu89rjdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5CrLwQj9Q6mvSdgcSIlOP3XQ0hOTzhbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61288148586-g1kurp9ds32gjj4b3d5r3li6vu89rjdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
